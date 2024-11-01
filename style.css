@@ -2,7 +2,7 @@ body {
     font-family: Arial,  sans-serif; /* Rodzina czcionek */
     font-size: 16px; /* Rozmiar głównej czcionki w <p></p> tag  */
     background-color: #000000; /* Kolor tła strony internetowej */
-    color: #006eff73; /* Kolor tła strony internetowej*/ 
+    color: #0073AE; /* Kolor tła strony internetowej*/ 
 }
 h1, h2 {
     color: #ffffff; /* Kolor nagłówka */
