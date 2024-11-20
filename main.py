@@ -9,6 +9,6 @@ def hello():
 
 @app.route("/test")
 def test():
-    return "<p>Storna Testowa<p>"
+    return "<p>Storna Testowa</p><a href='/'>Wróc</a>"
 
 app.run(debug=True)
